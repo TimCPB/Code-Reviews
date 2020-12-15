@@ -1,0 +1,12 @@
+mega software
+word processor
+spell checker in (wp)
+
+input is string - space separated words, will need to factor in punctuation later on
+highlight words - tilde before and after ~
+dictionary - hard code it for the prototype
+, external dictionary to be added later
+ - case insensitive
+ - preserve original casing in the output
+
+empty string => raises error "no words found"
